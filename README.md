@@ -1,2 +1,2 @@
 # Lab
-lab
+Laboratory 
